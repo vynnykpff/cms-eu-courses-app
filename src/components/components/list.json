@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_components_lists",
+  "info": {
+    "displayName": "List",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "primitives.item"
+    }
+  }
+}

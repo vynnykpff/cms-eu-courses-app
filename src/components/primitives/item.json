@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_primitives_items",
+  "info": {
+    "displayName": "Item",
+    "icon": "grid"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "string"
+    }
+  }
+}
