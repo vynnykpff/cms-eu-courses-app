@@ -49,6 +49,9 @@
     },
     "students": {
       "type": "string"
+    },
+    "rank": {
+      "type": "integer"
     }
   }
 }
